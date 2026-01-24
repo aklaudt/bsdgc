@@ -45,14 +45,3 @@ permalink: /documents/
   </ul>
 </div>
 
----
-
-## Document Updates
-
-To add new documents to this page:
-
-1. Update the Google Drive folder links in `_config.yml`
-2. Or add individual document links in this file
-3. Commit and push changes to update the site
-
-*Note: Make sure your Google Drive folders are set to "Anyone with the link can view" for public access.*
