@@ -1,0 +1,58 @@
+# Site settings
+title: "BSDGC"
+description: "Your local disc golf club"
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitlab-ci.yml
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+# Theme colors - Change these to customize your site's appearance
+theme_colors:
+  primary: "#2d5016"        # Forest green (main color)
+  secondary: "#7cb342"      # Light green (accents)
+  accent: "#ff6f00"         # Orange (disc golf disc color)
+  background: "#ffffff"     # White
+  text: "#333333"          # Dark gray
+  text_light: "#666666"    # Medium gray
+  link: "#2d5016"          # Forest green for links
+  link_hover: "#7cb342"    # Light green on hover
+  footer_bg: "#1a1a1a"     # Dark background for footer
+  footer_text: "#ffffff"   # White text in footer
+
+# Navigation
+navigation:
+  - name: Home
+    link: /
+  - name: Membership
+    link: /membership/
+  - name: Documents
+    link: /documents/
+
+# Contact information (update with your club's details)
+contact:
+  email: "info@example.com"
+  facebook: ""
+  instagram: ""
+
+# Google Drive folder IDs or direct links for documents
+# Update these with your actual Google Drive share links
+documents:
+  meeting_minutes_folder: "https://drive.google.com/drive/folders/YOUR_FOLDER_ID"
+  financial_reports_folder: "https://drive.google.com/drive/folders/YOUR_FOLDER_ID"
