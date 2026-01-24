@@ -10,25 +10,15 @@ permalink: /documents/
 
 ## Meeting Minutes
 
-<div class="content-section">
-  <p>Minutes from our regular club meetings are available in our Google Drive folder:</p>
-  <p>
-    <a href="{{ site.documents.meeting_minutes_folder }}" class="btn" target="_blank" rel="noopener">
-      View Meeting Minutes →
-    </a>
-  </p>
-</div>
+Minutes from our regular club meetings are available in our Google Drive folder:
+
+<a href="{{ site.documents.meeting_minutes_folder }}" class="btn" target="_blank" rel="noopener">View Meeting Minutes →</a>
 
 ## Financial Reports
 
-<div class="content-section">
-  <p>Annual financial reports and treasurer updates:</p>
-  <p>
-    <a href="{{ site.documents.financial_reports_folder }}" class="btn btn-secondary" target="_blank" rel="noopener">
-      View Financial Reports →
-    </a>
-  </p>
-</div>
+Annual financial reports and treasurer updates:
+
+<a href="{{ site.documents.financial_reports_folder }}" class="btn btn-secondary" target="_blank" rel="noopener">View Financial Reports →</a>
 
 ## Club Bylaws
 
