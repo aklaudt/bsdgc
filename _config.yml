@@ -49,8 +49,7 @@ navigation:
 # Contact information (update with your club's details)
 contact:
   email: "info@example.com"
-  facebook: ""
-  instagram: ""
+  facebook: "https://www.facebook.com/groups/665418236873268"
 
 # Google Drive folder IDs or direct links for documents
 # Update these with your actual Google Drive share links
