@@ -54,5 +54,5 @@ contact:
 # Google Drive folder IDs or direct links for documents
 # Update these with your actual Google Drive share links
 documents:
-  meeting_minutes_folder: "https://drive.google.com/drive/folders/1JgvYu7ld5xfvlod7YiFroIiqILK4_Gza?dmr=1&ec=wgc-drive-globalnav-goto"
-  financial_reports_folder: "https://drive.google.com/drive/folders/1s57qF--6DqvgfnAHcn780cNf5Qt618Oe?dmr=1&ec=wgc-drive-globalnav-goto"
+  meeting_minutes_folder: "https://drive.google.com/drive/folders/1JgvYu7ld5xfvlod7YiFroIiqILK4_Gza?usp=sharing"
+  financial_reports_folder: "https://drive.google.com/drive/folders/1s57qF--6DqvgfnAHcn780cNf5Qt618Oe?usp=sharing"

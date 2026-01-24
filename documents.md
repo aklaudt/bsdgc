@@ -12,13 +12,13 @@ permalink: /documents/
 
 Minutes from our regular club meetings are available in our Google Drive folder:
 
-<a href="https://drive.google.com/drive/folders/1JgvYu7ld5xfvlod7YiFroIiqILK4_Gza?dmr=1&ec=wgc-drive-globalnav-goto" class="btn" target="_blank" rel="noopener">View Meeting Minutes →</a>
+<a href="https://drive.google.com/drive/folders/1JgvYu7ld5xfvlod7YiFroIiqILK4_Gza?usp=sharing" class="btn" target="_blank" rel="noopener">View Meeting Minutes →</a>
 
 ## Financial Reports
 
 Annual financial reports and treasurer updates:
 
-<a href="https://drive.google.com/drive/folders/1s57qF--6DqvgfnAHcn780cNf5Qt618Oe?dmr=1&ec=wgc-drive-globalnav-goto" class="btn btn-secondary" target="_blank" rel="noopener">View Financial Reports →</a>
+<a href="https://drive.google.com/drive/folders/1s57qF--6DqvgfnAHcn780cNf5Qt618Oe?usp=sharing" class="btn btn-secondary" target="_blank" rel="noopener">View Financial Reports →</a>
 
 ## Club Bylaws
 
