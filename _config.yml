@@ -1,8 +1,8 @@
 # Site settings
 title: "BSDGC"
 description: "Your local disc golf club"
-baseurl: ""
-url: ""
+baseurl: "/bsdgc"
+url: "https://aklaudt.github.io"
 
 # Build settings
 markdown: kramdown
@@ -15,7 +15,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - .gitlab-ci.yml
+  - .github
+  - vendor
 
 # Collections
 collections:

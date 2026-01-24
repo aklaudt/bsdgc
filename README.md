@@ -1,10 +1,10 @@
 # BSDGC Website
 
-Static website for the disc golf club, built with Jekyll and hosted on GitLab Pages.
+Static website for the disc golf club, built with Jekyll and hosted on GitHub Pages.
 
 ## Quick Start
 
-The site will automatically build and deploy when you push to the `main` branch.
+The site will automatically build and deploy via GitHub Actions when you push to the `main` branch.
 
 ## Customizing Your Site
 
@@ -96,12 +96,19 @@ bundle exec jekyll serve
 
 ## Deployment
 
-The site automatically deploys to GitLab Pages when you push to `main`.
+The site automatically deploys to GitHub Pages when you push to `main`.
+
+### First-time Setup
+
+1. Push your code to GitHub
+2. Go to your repository Settings → Pages
+3. Under "Build and deployment", select Source: **GitHub Actions**
+4. The site will build automatically
 
 After the first deployment, your site will be available at:
-`https://[your-username].gitlab.io/bsdgc/`
+`https://aklaudt.github.io/bsdgc/`
 
-If you have a custom domain, you can configure it in GitLab's Settings → Pages.
+If you have a custom domain, you can configure it in GitHub's Settings → Pages.
 
 ## File Structure
 
@@ -113,11 +120,13 @@ If you have a custom domain, you can configure it in GitLab's Settings → Pages
 ├── assets/
 │   └── css/
 │       └── style.css       # Site styles
+├── .github/
+│   └── workflows/
+│       └── jekyll.yml      # GitHub Actions workflow
 ├── index.md                # Home page
 ├── membership.md           # Membership page
 ├── documents.md            # Documents page
-├── Gemfile                 # Ruby dependencies
-└── .gitlab-ci.yml         # GitLab CI/CD config
+└── Gemfile                 # Ruby dependencies
 ```
 
 ## Common Tasks
@@ -139,8 +148,9 @@ Edit the `navigation` section in `_config.yml`.
 ## Troubleshooting
 
 ### Site not updating after push
-- Check GitLab CI/CD → Pipelines to see if build succeeded
+- Check GitHub Actions tab to see if build succeeded
 - Builds typically take 2-3 minutes
+- Make sure GitHub Pages is set to deploy from "GitHub Actions" in Settings
 
 ### Styling looks broken
 - Make sure all color variables match between `_config.yml` and `assets/css/style.css`
@@ -153,4 +163,4 @@ Edit the `navigation` section in `_config.yml`.
 ## Support
 
 For Jekyll documentation: https://jekyllrb.com/docs/
-For GitLab Pages help: https://docs.gitlab.com/ee/user/project/pages/
+For GitHub Pages help: https://docs.github.com/en/pages
