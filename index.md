@@ -5,7 +5,7 @@ title: Home
 
 <div class="hero">
   <h1>Welcome to Big Sioux Disc Golf Club</h1>
-  <p>Your local disc golf community</p>
+  <p>Disc golf in the Sioux Falls area</p>
 </div>
 
 ## About Us
