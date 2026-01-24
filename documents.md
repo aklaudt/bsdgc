@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Documents
+permalink: /documents/
 ---
 
 <h1 class="page-title">Club Documents</h1>

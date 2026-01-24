@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Membership
+permalink: /membership/
 ---
 
 <h1 class="page-title">Membership</h1>

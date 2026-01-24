@@ -36,4 +36,4 @@ BSDGC is a community of disc golf enthusiasts dedicated to promoting the sport a
 
 ## Get Involved
 
-Interested in joining? Check out our [Membership](/membership/) page to learn more about becoming a member and supporting our club.
+Interested in joining? Check out our [Membership]({{ '/membership/' | relative_url }}) page to learn more about becoming a member and supporting our club.
