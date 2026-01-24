@@ -4,13 +4,13 @@ title: Home
 ---
 
 <div class="hero">
-  <h1>Welcome to BSDGC</h1>
+  <h1>Welcome to Big Sioux Disc Golf Club</h1>
   <p>Your local disc golf community</p>
 </div>
 
 ## About Us
 
-BSDGC is a community of disc golf enthusiasts dedicated to promoting the sport and maintaining quality courses in our area.
+Big Sioux Disc Golf Club (BSDGC) is a community of disc golf enthusiasts dedicated to promoting the sport and maintaining quality courses in our area.
 
 <div class="content-section">
   <h3>What We Do</h3>

@@ -1,6 +1,6 @@
 # Site settings
-title: "BSDGC"
-description: "Your local disc golf club"
+title: "Big Sioux Disc Golf Club"
+description: "BSDGC - Your local disc golf community"
 baseurl: "/bsdgc"
 url: "https://aklaudt.github.io"
 
@@ -48,7 +48,7 @@ navigation:
 
 # Contact information (update with your club's details)
 contact:
-  email: "info@example.com"
+  email: "bigsiouxdiscgolfclub@gmail.com"
   facebook: "https://www.facebook.com/groups/665418236873268"
 
 # Google Drive folder IDs or direct links for documents

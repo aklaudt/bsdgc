@@ -6,7 +6,7 @@ permalink: /membership/
 
 <h1 class="page-title">Membership</h1>
 
-## Join BSDGC
+## Join Big Sioux Disc Golf Club
 
 Become a member of our disc golf community and help us grow the sport locally.
 
@@ -49,12 +49,8 @@ Become a member of our disc golf community and help us grow the sport locally.
   <h3>Ready to become a member?</h3>
   <p>Contact us to learn more about membership or to sign up:</p>
   <ul>
-    <li>Email: [Your club email]</li>
+    <li>Email: bigsiouxdiscgolfclub@gmail.com</li>
     <li>Visit us at our next event</li>
-    <li>Message us on social media</li>
+    <li>Message us on <a href="https://www.facebook.com/groups/665418236873268" target="_blank">Facebook</a></li>
   </ul>
 </div>
-
----
-
-*Note: Update this page with your actual membership pricing and contact information.*
