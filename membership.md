@@ -10,37 +10,19 @@ permalink: /membership/
 
 Become a member of our disc golf community and help us grow the sport locally.
 
+## Annual Membership - $25/year
+
+Purchase a **bag tag** to become a member for the year! Your bag tag serves as your membership card and gets you access to all the benefits below.
+
 <div class="content-section">
   <h3>Membership Benefits</h3>
   <ul>
-    <li>Access to members-only events and tournaments</li>
-    <li>Discounts on club merchandise</li>
-    <li>Voting rights in club decisions</li>
+    <li>Discounts to local area tournaments</li>
+    <li>Eligibility to participate in bonus ace pots at weekly leagues</li>
+    <li>Access to the end of year club event</li>
     <li>Support course maintenance and improvements</li>
     <li>Connect with local disc golf community</li>
   </ul>
-</div>
-
-## Membership Levels
-
-<div class="card-grid">
-  <div class="card">
-    <h3>Annual Membership</h3>
-    <p><strong>$XX / year</strong></p>
-    <p>Full membership benefits for the calendar year.</p>
-  </div>
-
-  <div class="card">
-    <h3>Family Membership</h3>
-    <p><strong>$XX / year</strong></p>
-    <p>Membership for your entire household.</p>
-  </div>
-
-  <div class="card">
-    <h3>Student Membership</h3>
-    <p><strong>$XX / year</strong></p>
-    <p>Discounted rate for students with valid ID.</p>
-  </div>
 </div>
 
 ## How to Join
