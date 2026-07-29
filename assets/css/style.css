@@ -167,6 +167,61 @@ a:hover {
   text-align: center;
 }
 
+/* Featured Post (front-page blog-style promo) */
+.featured-post {
+  margin-bottom: var(--spacing-medium);
+  display: flex;
+  justify-content: center;
+}
+
+.post-card {
+  background: white;
+  padding: 1.25rem;
+  border-radius: 8px;
+  max-width: 900px;
+  width: 100%;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  border-left: 6px solid var(--color-accent);
+}
+
+.post-card h2 {
+  margin-top: 0;
+  color: var(--color-primary);
+  font-size: 1.75rem;
+}
+
+.post-meta {
+  color: var(--color-text-light);
+  margin-bottom: 0.75rem;
+}
+
+.post-card .btn {
+  margin-top: 0.5rem;
+}
+
+.post-image {
+  float: left;
+  width: 220px;
+  max-width: 35%;
+  height: 140px;
+  object-fit: cover;
+  margin-right: 1rem;
+  border-radius: 6px;
+}
+
+@media (max-width: 768px) {
+  .post-image { width: 180px; height: 120px; }
+}
+
+@media (max-width: 480px) {
+  .post-image { float: none; display: block; width: 100%; height: auto; margin: 0 0 0.75rem 0; }
+}
+
+@media (max-width: 480px) {
+  .post-card { padding: 1rem; }
+  .post-card h2 { font-size: 1.25rem; }
+}
+
 .hero h1 {
   color: white;
   font-size: 3rem;

@@ -5,7 +5,18 @@ title: Home
 
 <div class="hero">
   <h1>Welcome to Big Sioux Disc Golf Club</h1>
-  <p>Disc golf in the Sioux Falls area</p>
+  <p>Disc golf in the Sioux Falls area — 17 years in the making!</p>
+</div>
+
+<div class="featured-post container">
+  <article class="post-card">
+    <img class="post-image" src="{{ '/assets/images/great-bear.jpg' | relative_url }}" alt="Great Bear - King of the Hill">
+    <h2>King of the Hill at GREAT BEAR — Excited to Compete!</h2>
+    <p class="post-meta">We're excited about this upcoming tournament — come cheer on BSDGC members or join the competition. See full event details and registration below.</p>
+    <p>
+      <a class="btn" href="https://www.discgolfscene.com/tournament/King_of_the_Hill_at_GREAT_BEAR_2026" target="_blank" rel="noopener">Event Details & Registration</a>
+    </p>
+  </article>
 </div>
 
 ## About Us
