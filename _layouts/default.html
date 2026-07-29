@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,16 +10,21 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     {% seo %}
 </head>
+
 <body>
     <header class="site-header">
         <div class="container">
             <div class="header-content">
-                <h1 class="site-title">
-                    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-                </h1>
-                <nav class="main-nav">
+                <div class="header-left">
+                    <a class="logo-link" href="{{ '/' | relative_url }}">
+                        <img src="{{ '/assets/images/BSDGC-Logo.png' | relative_url }}" alt="{{ site.title }} logo"
+                            class="site-logo">
+                    </a>
+                    <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+                </div>
+                <nav class="main-nav" aria-label="Main navigation">
                     {% for item in site.navigation %}
-                    <a href="{{ item.link | relative_url }}" {% if page.url == item.link %}class="active"{% endif %}>
+                    <a href="{{ item.link | relative_url }}" {% if page.url == item.link %}class="active" {% endif %}>
                         {{ item.name }}
                     </a>
                     {% endfor %}
@@ -61,4 +67,5 @@
         </div>
     </footer>
 </body>
+
 </html>
