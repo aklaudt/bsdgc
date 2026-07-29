@@ -21,6 +21,9 @@ Big Sioux Disc Golf Club (BSDGC) is a community of disc golf enthusiasts dedicat
   <div class="card">
     <h3>Weekly Events</h3>
     <p>Join us for regular league nights and casual rounds. All skill levels welcome!</p>
+    <p>
+      <a class="btn" href="https://udisc.com/leagues/bsdgc-wednesday-league-HD67oj/schedule" target="_blank" rel="noopener">Weekly Events Schedule</a>
+    </p>
   </div>
 
   <div class="card">
