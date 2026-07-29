@@ -1,8 +1,8 @@
 # Site settings
 title: "Big Sioux Disc Golf Club"
 description: "Disc golf in the Sioux Falls area"
-baseurl: "/bsdgc"
-url: "https://aklaudt.github.io"
+baseurl: ""
+url: "https://bigsiouxdiscgolfclub.com"
 
 # Build settings
 markdown: kramdown
