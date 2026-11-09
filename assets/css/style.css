@@ -176,7 +176,7 @@ a:hover {
 .recent-posts {
   display: flex;
   flex-direction: column;
-  gap: 1.25rem;
+  gap: var(--spacing-medium);
   margin-bottom: var(--spacing-large);
   padding: var(--spacing-medium);
   background-color: #f1f6ec;
@@ -197,7 +197,7 @@ a:hover {
 }
 
 @media (max-width: 480px) {
-  .recent-posts { padding: var(--spacing-small); }
+  .recent-posts { padding: var(--spacing-small); gap: 1.25rem; }
 }
 
 .post-card {
@@ -208,6 +208,11 @@ a:hover {
   width: 100%;
   box-shadow: 0 6px 18px rgba(0,0,0,0.08);
   border-left: 6px solid var(--color-accent);
+}
+
+/* Global p/h margins would otherwise pad the card's bottom edge */
+.post-card > :last-child {
+  margin-bottom: 0;
 }
 
 .post-card h2 {
