@@ -8,7 +8,9 @@ title: Home
   <p>Disc golf in the Sioux Falls area</p>
 </div>
 
-<div class="featured-post container">
+<section class="recent-posts" aria-labelledby="recent-posts-heading">
+  <h2 id="recent-posts-heading" class="recent-posts-title">Recent Posts</h2>
+
   <article class="post-card">
     <h2>2027 Board Elections</h2>
     <p class="post-meta">BSDGC board elections for 2027 are open! Help shape the future of disc golf in the Sioux Falls area by casting your vote or putting your name forward for a board position.</p>
@@ -16,9 +18,7 @@ title: Home
       <a class="btn" href="https://forms.gle/4zYjhvdqnZ5F8fa1A" target="_blank" rel="noopener">2027 Board Elections Form</a>
     </p>
   </article>
-</div>
 
-<div class="featured-post container">
   <article class="post-card">
     <img class="post-image" src="{{ '/assets/images/great-bear.jpg' | relative_url }}" alt="Great Bear - King of the Hill">
     <h2>King of the Hill at GREAT BEAR. 17 Years in the making!</h2>
@@ -27,7 +27,7 @@ title: Home
       <a class="btn" href="https://www.discgolfscene.com/tournament/King_of_the_Hill_at_GREAT_BEAR_2026" target="_blank" rel="noopener">Event Details & Registration</a>
     </p>
   </article>
-</div>
+</section>
 
 ## About Us
 

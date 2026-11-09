@@ -172,14 +172,36 @@ a:hover {
   text-align: center;
 }
 
-/* Featured Post (front-page blog-style promo) */
-.featured-post {
-  margin-bottom: var(--spacing-medium);
+/* Recent Posts (front-page blog-style promos) */
+.recent-posts {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-bottom: var(--spacing-large);
+  padding: var(--spacing-medium);
+  background-color: #f1f6ec;
+  border: 1px solid #dce8d0;
+  border-top: 6px solid var(--color-primary);
+  border-radius: 8px;
+}
+
+.recent-posts-title {
+  margin: 0;
+  padding-bottom: 0.5rem;
+  color: var(--color-primary);
+  font-size: 1.1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border-bottom: 2px solid #dce8d0;
+}
+
+@media (max-width: 480px) {
+  .recent-posts { padding: var(--spacing-small); }
 }
 
 .post-card {
+  display: flow-root;
   background: white;
   padding: 1.25rem;
   border-radius: 8px;
