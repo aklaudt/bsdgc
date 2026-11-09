@@ -6,33 +6,33 @@ permalink: /membership/
 
 <h1 class="page-title">Membership</h1>
 
-## Join Big Sioux Disc Golf Club
+## Join the Club
 
-Become a member of our disc golf community and help us grow the sport locally.
+Becoming a member is the easiest way to support local disc golf, and you get some nice perks along the way.
 
-## Annual Membership - $25/year
+## Annual Membership: $25
 
-Purchase a **bag tag** to become a member for the year! Your bag tag serves as your membership card and gets you access to all the benefits below.
+Membership runs through our **bag tag**. Pick one up for $25 and you're a member for the year. The tag doubles as your membership card.
 
 <div class="content-section">
-  <h3>Membership Benefits</h3>
+  <h3>What You Get</h3>
   <ul>
-    <li>Discounts to local area tournaments</li>
-    <li>Eligibility to participate in bonus ace pots at weekly leagues</li>
-    <li>Access to the end of year club event</li>
-    <li>Support course maintenance and improvements</li>
-    <li>Connect with local disc golf community</li>
+    <li>Discounts on local tournaments</li>
+    <li>A shot at the bonus ace pots during weekly league</li>
+    <li>An invite to our end-of-year club event</li>
+    <li>Dues that go toward keeping local courses in good shape</li>
+    <li>A great way to meet other players in the area</li>
   </ul>
 </div>
 
 ## How to Join
 
 <div class="content-section">
-  <h3>Ready to become a member?</h3>
-  <p>Contact us to learn more about membership or to sign up:</p>
+  <h3>Ready to get your tag?</h3>
+  <p>Reach out any of these ways and we'll get you set up:</p>
   <ul>
-    <li>Email: bigsiouxdiscgolfclub@gmail.com</li>
-    <li>Visit us at our next event</li>
-    <li>Message us on <a href="https://www.facebook.com/groups/665418236873268" target="_blank">Facebook</a></li>
+    <li>Email us at <a href="mailto:bigsiouxdiscgolfclub@gmail.com">bigsiouxdiscgolfclub@gmail.com</a></li>
+    <li>Find us at our next event</li>
+    <li>Send us a message on <a href="https://www.facebook.com/groups/665418236873268" target="_blank" rel="noopener">Facebook</a></li>
   </ul>
 </div>

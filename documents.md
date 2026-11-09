@@ -6,25 +6,25 @@ permalink: /documents/
 
 <h1 class="page-title">Club Documents</h1>
 
-<p>Access important club documents including meeting minutes, financial reports, and bylaws.</p>
+<p>Meeting minutes, financial reports, and other club records, all in one place.</p>
 
 ## Meeting Minutes
 
-Minutes from our regular club meetings are available in our Google Drive folder:
+Notes from our club meetings are kept in a shared Google Drive folder.
 
-<a href="https://drive.google.com/drive/folders/1JgvYu7ld5xfvlod7YiFroIiqILK4_Gza?usp=sharing" class="btn" target="_blank" rel="noopener">View Meeting Minutes →</a>
+<a href="https://drive.google.com/drive/folders/1JgvYu7ld5xfvlod7YiFroIiqILK4_Gza?usp=sharing" class="btn" target="_blank" rel="noopener">Open Meeting Minutes →</a>
 
 ## Financial Reports
 
-Annual financial reports and treasurer updates:
+Yearly financial reports and treasurer updates are on Google Drive too.
 
-<a href="https://drive.google.com/drive/folders/1s57qF--6DqvgfnAHcn780cNf5Qt618Oe?usp=sharing" class="btn btn-secondary" target="_blank" rel="noopener">View Financial Reports →</a>
+<a href="https://drive.google.com/drive/folders/1s57qF--6DqvgfnAHcn780cNf5Qt618Oe?usp=sharing" class="btn btn-secondary" target="_blank" rel="noopener">Open Financial Reports →</a>
 
 ## Club Bylaws
 
 <div class="content-section">
-  <h3>Organizational Documents</h3>
-  <p>Our club bylaws and organizational documents will be available here.</p>
+  <h3>Bylaws & Policies</h3>
+  <p>We're still putting these together. They'll be posted here once they're ready.</p>
   <ul class="document-list">
     <li>
       <a href="#">Club Bylaws (Coming Soon)</a>
@@ -34,4 +34,3 @@ Annual financial reports and treasurer updates:
     </li>
   </ul>
 </div>
-
