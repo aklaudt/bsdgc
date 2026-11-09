@@ -82,16 +82,29 @@ To link your documents:
 
 ## Local Development
 
-To test the site locally before pushing:
+Preview every change locally before pushing. The live site is only what
+GitHub Pages builds, so this is the only place to catch layout problems
+before visitors see them.
+
+### With Docker (recommended, no Ruby install needed)
+
+Start Docker Desktop, then from the repo root:
 
 ```bash
-# Install dependencies
+docker compose up
+```
+
+Open http://localhost:4000. The page reloads automatically when you save a
+file. The first run downloads Ruby and installs gems (a few minutes); later
+runs start in seconds. Stop it with `Ctrl+C` or `docker compose down`.
+
+It uses Ruby 3.1, the same version as the GitHub Actions build.
+
+### With Ruby installed
+
+```bash
 bundle install
-
-# Run local server
-bundle exec jekyll serve
-
-# View at http://localhost:4000
+bundle exec jekyll serve --livereload
 ```
 
 ## Deployment

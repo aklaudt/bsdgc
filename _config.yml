@@ -15,7 +15,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - docker-compose.yml
   - .github
+  - .claude
   - vendor
 
 # Collections
